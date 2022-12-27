@@ -1,0 +1,1 @@
+Example repo to recreate issue with slashes and backslahes inside peer deps inside pnpm-lock.yaml
